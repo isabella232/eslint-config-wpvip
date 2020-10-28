@@ -23,7 +23,7 @@
   "dependencies": {
     "eslint-config-wpcalypso": "^4.0.0",
     "eslint-loader": "^3.0.0",
-    "webpack": "^4.21.0"
+    "webpack": "^5.0.0"
   },
   "peerDependencies": {
     "babel-eslint": "^10.0.1",
